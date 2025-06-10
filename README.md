@@ -1,4 +1,4 @@
-Mobile_PTUDTBDD_64HTTT1-64CNTT.NB
+Phát triển ứng dụng dành cho các thiết bị di động 64HTTT1+64CNTT.NB
 
 Xây dựng một ứng dụng Android giúp quản lý lịch khám bệnh của phòng khám tư nhân, sử 
 dụng SQLite hoặc  Firebase để lưu trữ dữ liệu. 
